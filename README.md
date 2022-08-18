@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Long career as a sales manager, I am willing and very excited to change areas and become a good developer, dedicating myself at all times. :facepunch:
 
 <br>
-<br>
 
 
 
