@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Contact
 
-<a href="https://twitter.com/NambaFernando" target="_blank">
+<a href="https://twitter.com/NambaFernando" target="__blank">
   <img align="center" src="https://img.shields.io/badge/-FernandoNamba-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/fernando-namba-95854121/" target="_blank">
