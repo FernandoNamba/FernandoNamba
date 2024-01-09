@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/fernandonamba/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-FernandoNamba-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="mailto:namba.fernando@gmail.com" target="_blank">
+<a href="mailto:fernandonamba.work@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-FernandoNamba-05122A?style=flat&logo=gmail" alt="instagram"/>
 </a>
 
