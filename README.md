@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently no working.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, React. 
+- 🔭 I’m currently no working in area.
+- 🌱 I’m currently learning HTML, CSS, JavaScript,GitHub, NodeJS, React. 
 - 🤔 I’m looking for help with my first work on Front-End Developer area.
 - 💬 Ask me about ...
 - ⚡ Fun fact: Long career as a sales manager, I am willing and very excited to change areas and become a good developer, dedicating myself at all times. :facepunch:
